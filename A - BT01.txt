@@ -1,0 +1,15 @@
+1. bool isA = ( 90 <= grade && grade <= 100)
+2. 0
+3. kết quả vượt quá phạm vi int.
+4. false
+5. lỗi "division by zero"
+6. lỗi, lỗi, bằng 0
+7. 0, 0.75, 0.75, 0.75
+8. conflicting declaration 'char arg1'.
+9. không bị lỗi
+   arg1 = 'A';
+10. không bị lỗi
+    arg1 = -1;
+11. bằng 0
+12. Here
+
